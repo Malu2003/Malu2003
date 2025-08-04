@@ -53,9 +53,9 @@ I’m a final-year AI engineering student with a passion for building intelligen
 
 ## 📫 Let’s Connect
 
-- 📧 Email: _[your-email@example.com]_  
+- 📧 Email: _[nijin.ai.tech@gmail.com]_  
 - 💼 [LinkedIn](https://linkedin.com/in/niji-n)  
-- 🧑‍💻 [GitHub](https://github.com/NijiN)  
+- 🧑‍💻 [GitHub](https://github.com/Malu2003)  
 
 
 
