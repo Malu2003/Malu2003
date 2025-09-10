@@ -14,13 +14,12 @@ I’m a final-year AI engineering student with a passion for building intelligen
 
 ### 🛠 Languages & Frameworks
 - **Python**, **JavaScript**, **TypeScript**
-- **FastAPI**, **Flask**, **NestJS** 
+- **FastAPI**, **NestJS** 
 - **HTML**, **CSS**, **JavaScript**, **Angular** 
 
 ### 🧠 AI & Machine Learning
 - Scikit-learn, XGBoost, Regression Models
-- Feature Engineering, EDA, Preprocessing Pipelines
-- LSTM, Time-Series Forecasting 
+- LSTM, XGBoost
 
 ### 🗃️ Databases & Tools
 - **PostgreSQL**, SQLAlchemy, Alembic
@@ -28,16 +27,15 @@ I’m a final-year AI engineering student with a passion for building intelligen
 - Git & GitHub, Postman, VS Code, Figma
 
 ### 📦 DevOps (Learning)
-- GitHub Actions (CI/CD basics), Deployment best practices
+- GitHub Actions , Deployment best practices
 
 ---
-
 
 
 ## 🏆 Academics & Achievements
 
 - 🥉 3rd Place – **LaunchPad**, Shreshta'25 Innovation Challenge @ MITS  
-- 📖 Exploring advanced topics: *Group Theory, Ring Theory, Angular, NestJS*  
+- 📖 Exploring advanced topics: * Angular, NestJS*  
 - ✍️ Wrote and organized club events combining tech & creativity  
 
 ---
